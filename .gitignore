@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.ilk
+*.spv
+*.dll
+*.exp
+*.lib
+src/assets/*.h
+src/assets.h
+build-release-assets.sh
