@@ -14,5 +14,3 @@ code is very messy and completely not production ready this version of engine ha
 if you want to build it simply run `sh build-release.sh`
 ## BBBUt i dont have `sh` im Binbows user
 BAHAHAAHh you are lying my friend you have git installed on your computer right? if so open its files go into bin directory and there you have it ready to use sh.
-
- Cool Calculator © 2024 by Filip Młodzik is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
