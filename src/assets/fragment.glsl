@@ -7,4 +7,5 @@ layout(binding = 1) uniform sampler2D texSampler;
 
 void main() {
     outColor = texture(texSampler, fragUv);
+    if(outColor.a == 0) discard;
 }
